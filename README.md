@@ -1,6 +1,6 @@
 # The default Visual Studio light and dark themes
 
-![CI](https://github.com/microsoft/vscode-theme-defaults/workflows/CI/badge.svg)
+[![CI](https://github.com/microsoft/vscode-theme-defaults/workflows/CI/badge.svg)](https://github.com/microsoft/vscode-theme-defaults/actions)
 
 ## Issues
 
