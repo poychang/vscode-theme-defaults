@@ -2,9 +2,9 @@
 
 [![CI](https://github.com/microsoft/vscode-theme-defaults/workflows/CI/badge.svg)](https://github.com/microsoft/vscode-theme-defaults/actions)
 
-## Issues
+This extension is a built-in extension of [VS Code](https://github.com/microsoft/vscode).
 
-Please file issues in https://github.com/microsoft/vscode/issues
+Issues can be created and tracked in [VS Code's Issues page](https://github.com/microsoft/vscode/issues).
 
 ## License
 
